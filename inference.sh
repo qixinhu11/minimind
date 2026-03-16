@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python eval_llm.py --load_from ./MiniMind2
