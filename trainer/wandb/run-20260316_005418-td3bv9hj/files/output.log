@@ -1,0 +1,7 @@
+Model Params: 25.83M
+Trainable Params: 25.830M
+Epoch:[1/5](100/14720), loss: 7.0521, logits_loss: 7.0521, aux_loss: 0.0000, lr: 0.00050000, epoch_time: 22.0min
+Epoch:[1/5](200/14720), loss: 7.0256, logits_loss: 7.0256, aux_loss: 0.0000, lr: 0.00049999, epoch_time: 21.0min
+Epoch:[1/5](300/14720), loss: 6.6620, logits_loss: 6.6620, aux_loss: 0.0000, lr: 0.00049998, epoch_time: 20.0min
+Epoch:[1/5](400/14720), loss: 6.4595, logits_loss: 6.4595, aux_loss: 0.0000, lr: 0.00049997, epoch_time: 20.0min
+Epoch:[1/5](500/14720), loss: 6.0987, logits_loss: 6.0987, aux_loss: 0.0000, lr: 0.00049995, epoch_time: 20.0min
