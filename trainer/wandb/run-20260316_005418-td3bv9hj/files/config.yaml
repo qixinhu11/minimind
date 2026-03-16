@@ -1,0 +1,102 @@
+_wandb:
+    value:
+        cli_version: 0.25.1
+        e:
+            y62yous0kxuygyye11phftvo60ax9jn2:
+                args:
+                    - --save_dir
+                    - ../out
+                    - --epochs
+                    - "5"
+                    - --use_wandb
+                    - --from_resume
+                    - "0"
+                codePath: trainer/train_pretrain.py
+                codePathLocal: train_pretrain.py
+                cpu_count: 64
+                cpu_count_logical: 128
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "7606797918208"
+                        used: "5418366312448"
+                email: qixinhu@usc.edu
+                executable: /home/qixinhu/miniconda3/envs/llm/bin/python3.10
+                git:
+                    commit: f88f146b9a15820dbcf9987d562f96e728882a08
+                    remote: https://github.com/qixinhu11/minimind.git
+                gpu: NVIDIA RTX A6000
+                gpu_count: 7
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-cb4ca31b-fb46-4095-78f5-9645aecfdd77
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-8520cd57-c853-8123-daeb-e85a46d89066
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-3efeb7d8-6f2a-3433-7235-4193d6641f6a
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-4c7dd0d5-95fa-80f7-063b-f51bad7bcd67
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-0b5dabbe-a008-b322-aa63-273924d98cf7
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-600d6733-d10c-b1db-22a6-728db55607d7
+                    - architecture: Ampere
+                      cudaCores: 10752
+                      memoryTotal: "51527024640"
+                      name: NVIDIA RTX A6000
+                      uuid: GPU-97dcc7f8-6a1c-d857-715c-7a2067ace26f
+                host: mcl-server2
+                memory:
+                    total: "1082025521152"
+                os: Linux-5.15.0-164-generic-x86_64-with-glibc2.35
+                program: /home/qixinhu/LearnLLM/minimind/trainer/train_pretrain.py
+                python: CPython 3.10.19
+                root: /home/qixinhu/LearnLLM/minimind/trainer
+                startedAt: "2026-03-16T07:54:18.067120Z"
+                writerId: y62yous0kxuygyye11phftvo60ax9jn2
+        m: []
+        python_version: 3.10.19
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+            "2":
+                - 1
+                - 5
+                - 11
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+            "3":
+                - 13
+            "4": 3.10.19
+            "5": 0.25.1
+            "6": 4.57.1
+            "12": 0.25.1
+            "13": linux-x86_64
